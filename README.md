@@ -48,6 +48,7 @@ replace your Google Ads key in 'lib/ad_state.dart'
 <div align="center">
     <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot1.jpg" width="300px"</img> 
 </div>
+
 ![screenshot1](https://github.com/dstark5/cryptox/blob/main/screenshots/shot1.jpg)
 
 <div align="center">
