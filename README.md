@@ -32,7 +32,7 @@ In Terminal, run the following commands:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_0.png)
+![App Screenshot](https://github.com/dstark5/cryptox/blob/main/Screenshots/shot_0.png)
 
 ![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_1.png)
 
