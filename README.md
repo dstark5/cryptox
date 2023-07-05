@@ -32,20 +32,20 @@ In Terminal, run the following commands:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_0.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_0.png)
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_1.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_1.png)
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_2.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_2.png)
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_3.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_3.png)
 
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_4.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_4.png)
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_5.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_5.png)
 
-![App Screenshot](https://github.com/cryptox/Screenshots/shot_6.png)
+![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_6.png)
 
 
 
