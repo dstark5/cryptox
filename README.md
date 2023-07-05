@@ -33,24 +33,32 @@ In Terminal, run the following commands:
 ## Screenshots
 
 <div align="center">
-    <img src="https://github.com/dstark5/cryptox/blob/main/Screenshots/shot_0.png" width="300px"</img> 
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_0.png" width="300px"</img> 
 </div>
 
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_1.png)
+<div align="center">
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_1.png" width="300px"</img> 
+</div>
 
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_2.png)
+<div align="center">
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_2.png" width="300px"</img> 
+</div>
 
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_3.png)
+<div align="center">
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_3.png" width="300px"</img> 
+</div>
 
+<div align="center">
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_4.png" width="300px"</img> 
+</div>
 
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_4.png)
+<div align="center">
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_5.png" width="300px"</img> 
+</div>
 
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_5.png)
-
-![App Screenshot](https://github.com/dstark5/cryptox/Screenshots/shot_6.png)
-
-
-
+<div align="center">
+    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_6.png" width="300px"</img> 
+</div>
 
 
 ## License
