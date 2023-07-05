@@ -33,15 +33,15 @@ In Terminal, run the following commands:
 ## Screenshots
 
 <div align="center">
-    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot_0.png" width="300px"</img> 
+    <img src="https://github.com/dstark5/cryptox/screenshots/shot1.png" width="300px"</img> 
 </div>
 
 <div align="center">
-    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot1.png" width="300px"</img> 
+    <img src="https://github.com/dstark5/cryptox/screenshots/shot2.png" width="300px"</img> 
 </div>
 
 <div align="center">
-    <img src="https://github.com/dstark5/cryptox/blob/main/screenshots/shot2.png" width="300px"</img> 
+    <img src="https://github.com/dstark5/cryptox/screenshots/shot3.png" width="300px"</img> 
 </div>
 
 ## License
