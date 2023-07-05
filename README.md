@@ -21,6 +21,19 @@ In Terminal, run the following commands:
   flutter packages get
 ```
 
+## Config
+
+replace your Google Ads key in 'lib/ad_state.dart'
+
+```Dart
+  import 'package:native_admob_flutter/native_admob_flutter.dart';
+
+  class adstate{
+    String get bannerAdUnitId=>"Paste Google Ads key here";
+  }
+```
+### Run App
+
 ```bash
   flutter run
 ```
